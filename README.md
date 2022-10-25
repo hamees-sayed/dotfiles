@@ -1,4 +1,4 @@
-You can either modify this to your own proference or add the github repo link to Dotfile section at the bottom of[Gitpod Preference](https://gitpod.io/preferences).  
+You can either modify this to your own preference or add the github repo link to Dotfile section at the bottom of [Gitpod Preference](https://gitpod.io/preferences).  
 
 Start a workspace.   
 
